@@ -1,6 +1,6 @@
-# testing-at-amazon
+# Testing at Amazon
 
-The repository contains a list of links that help to understand Amazon engineering culture and how teams assure quality of delivered products.
+The repository contains a list of links that help to understand Amazon engineering culture and how teams assure the quality of delivered products.
 
 ### Business Model
 - :page_facing_up: [Amazon Flywheel and how does it work](https://www.sellerapp.com/blog/amazon-flywheel/)  
